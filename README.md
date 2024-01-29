@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# cdk-aurora-mysql
 
-This is a blank project for CDK development with TypeScript.
+This is an AWS CDK project for an Amazon Aurora MySQL DB cluster with TypeScript.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
